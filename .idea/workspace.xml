@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0331e22-9d1f-4227-84eb-d1293cb85ebc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RCNqUAHn4v6o7lEwJEcK5WZvEc" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fbhui\Desktop\IT Class Notes\Maven_Project\src\test\java\Yahoo_Test_Page_Object" />
+      <recent name="C:\Users\fbhui\Desktop\IT Class Notes\Maven_Project\src\main\resources" />
+      <recent name="C:\Users\fbhui\Desktop\IT Class Notes\Maven_Project\src\main\java\Reusable_Classes" />
+      <recent name="C:\Users\fbhui\Desktop\IT Class Notes\Maven_Project\src\main\java\Yahoo_Page_Object" />
+      <recent name="C:\Users\fbhui\Desktop\IT Class Notes\Maven_Project\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Reusable_Classes" />
+      <recent name="Reasonable_Classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fbhui\Desktop\IT Class Notes\Maven_Project\src\main\resources" />
+      <recent name="C:\Users\fbhui\Desktop\IT Class Notes\Maven_Project\src\test\java\Yahoo_Test_Page_Object" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/fbhui/Desktop/IT Class Notes/Maven_Project/src/test/java/Yahoo_Test_Page_Object/yahooSuite.xml">
+    <configuration name="C:/Users/fbhui/Desktop/IT Class Notes/Maven_Project/src/test/java/Yahoo_Test_Page_Object/yahooSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/yahooSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_Yahoo_Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC01_Yahoo_Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02_Yahoo_Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC02_Yahoo_Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02_Yahoo_Search.yahooRegister" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC02_Yahoo_Search" />
+      <option name="METHOD_NAME" value="yahooRegister" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="express_data_driven_loggers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG_0928.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNG_0928" />
+      <option name="MAIN_CLASS_NAME" value="testNG_0928.express_data_driven_loggers" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/fbhui/Desktop/IT Class Notes/Maven_Project/src/test/java/Yahoo_Test_Page_Object/yahooSuite.xml" />
+        <item itemvalue="TestNG.TC02_Yahoo_Search" />
+        <item itemvalue="TestNG.TC02_Yahoo_Search.yahooRegister" />
+        <item itemvalue="TestNG.TC01_Yahoo_Search" />
+        <item itemvalue="TestNG.express_data_driven_loggers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0331e22-9d1f-4227-84eb-d1293cb85ebc" name="Default Changelist" comment="" />
+      <created>1569167308448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569167308448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumAutomation0922$TC02_Yahoo_Search.ic" NAME="TC02_Yahoo_Search Coverage Results" MODIFIED="1570739956421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Yahoo_Test_Page_Object.*</FILTER>
+    </SUITE>
+  </component>
+</project>
